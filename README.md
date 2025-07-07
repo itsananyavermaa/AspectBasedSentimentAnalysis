@@ -1,4 +1,4 @@
-# AbstractBasedSentimentAnalysis
+# AspectBasedSentimentAnalysis
 This project implements a deep learning pipeline for **Aspect-Based Sentiment Analysis (ABSA)** using a BiLSTM model enhanced with **aspect markers** (`[ASP]...[/ASP]`) to focus attention on specific aspects of user reviews. The model is trained on the [FABSA dataset](https://www.sciencedirect.com/science/article/pii/S0925231223009906?via%3Dihub), which contains fine-grained customer reviews from the Google Play and Apple App Stores across various industries like Fashion, Travel, and Consulting.
 
 ### Highlights
